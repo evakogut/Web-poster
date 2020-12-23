@@ -132,7 +132,7 @@ body{
   top: 3445px;
 }
 a.rollover{
-  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/pepper.svg');
+  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%202.svg');
   display: block;
   width:425px ;
   height:438px ;
@@ -141,7 +141,7 @@ a.rollover:hover {
     background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%20118.svg');
 }
 a.rollover-eggplant{
-  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/eggplant.svg');
+  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD.svg');
   display: block;
   width:283px ;
   height:354px ;
@@ -150,7 +150,7 @@ a.rollover-eggplant:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2064.svg')
 }
 a.rollover-carrot{
-  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/carrot.svg');
+  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%2013.svg');
   display: block;
   width:420px ;
   height:240px ;
@@ -159,7 +159,7 @@ a.rollover-carrot:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2051.svg');
 }
 a.rollover-cherry{
-  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/cherry.svg');
+  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%201.svg');
   display: block;
   width:159px ;
   height:246px ;
@@ -168,7 +168,7 @@ a.rollover-cherry:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2088.svg')
 }
 a.rollover-grapes{
-  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/grape.svg');
+  background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%2011.svg');
   display: block;
   width:577px ;
   height:595px ;
@@ -177,13 +177,13 @@ a.rollover-grapes:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%20117.svg')
 }
 .flask{
-  position: relative;
+  position: absolute;
   z-index: 1;
   left: 494px;
   top: 390px;
 }
 .liquid{
-  position: relative;
+  position: absolute;
   z-index: 1;
   top: 390px;
   left: 288px;
