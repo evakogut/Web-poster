@@ -1,0 +1,443 @@
+<svg width="633" height="645" viewBox="0 0 633 645" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M251.921 168.129C280.044 170.849 304.931 151.452 307.509 124.805C310.086 98.157 289.378 74.3497 261.255 71.6295C233.132 68.9093 208.244 88.3062 205.667 114.954C203.089 141.601 223.798 165.409 251.921 168.129Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M410.172 180.94L393.26 191.56L380.985 172.013C380.985 172.013 405.267 108.521 456.975 85.6153L466.218 86.7864L487.444 93.7882C487.444 93.7882 539.939 61.9037 561.977 112.844C561.977 112.844 591.966 182.131 554.486 240.94C554.486 240.94 460.794 182.686 480.629 102.876L457.999 98.01C457.999 98.01 402.233 117.019 410.172 180.94Z" fill="#619154" stroke="black" stroke-miterlimit="10"/>
+<path d="M189.306 239.897C217.09 242.585 241.677 223.424 244.223 197.1C246.769 170.776 226.31 147.257 198.527 144.57C170.744 141.883 146.157 161.044 143.61 187.368C141.064 213.692 161.523 237.21 189.306 239.897Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M44.3106 592.989C68.23 595.303 89.3981 578.801 91.5909 556.131C93.7837 533.461 76.1708 513.207 52.2513 510.894C28.3319 508.58 7.1638 525.082 4.97102 547.752C2.77823 570.422 20.3911 590.676 44.3106 592.989Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M74.5941 519.559C96.4609 521.675 115.812 506.594 117.816 485.876C119.82 465.158 103.718 446.648 81.8511 444.533C59.9843 442.418 40.6333 457.499 38.6293 478.217C36.6254 498.935 52.7274 517.444 74.5941 519.559Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M134.598 385.539C159.228 387.922 181.025 370.932 183.283 347.592C185.541 324.252 167.404 303.4 142.773 301.018C118.143 298.635 96.3456 315.625 94.0881 338.965C91.8305 362.305 109.967 383.157 134.598 385.539Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M322.018 253.156C361.241 256.95 395.951 229.898 399.546 192.734C403.14 155.57 374.258 122.367 335.036 118.573C295.814 114.78 261.103 141.831 257.509 178.995C253.914 216.159 282.796 249.362 322.018 253.156Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M152.496 319.032C180.937 321.783 206.165 301.549 208.845 273.839C211.525 246.129 190.643 221.436 162.203 218.685C133.762 215.934 108.534 236.167 105.854 263.877C103.174 291.587 124.056 316.281 152.496 319.032Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M225.016 482.664C252.174 484.169 275.397 463.591 276.887 436.703C278.376 409.815 257.569 386.798 230.411 385.294C203.254 383.789 180.031 404.366 178.541 431.254C177.051 458.142 197.859 481.159 225.016 482.664Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M217.471 354.165C249.211 357.235 277.3 335.345 280.208 305.272C283.117 275.2 259.745 248.333 228.005 245.262C196.265 242.192 168.177 264.082 165.268 294.155C162.36 324.227 185.732 351.095 217.471 354.165Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M93.7413 455.722C124.526 458.699 151.77 437.468 154.591 408.3C157.412 379.132 134.743 353.073 103.958 350.095C73.173 347.118 45.9297 368.349 43.1084 397.517C40.2871 426.685 62.9562 452.744 93.7413 455.722Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M100.861 568.048C126.741 570.551 149.645 552.699 152.017 528.175C154.389 503.65 135.332 481.74 109.451 479.236C83.5702 476.733 60.6668 494.585 58.2947 519.109C55.9225 543.634 74.9799 565.544 100.861 568.048Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M155.272 504.874C180.827 507.346 203.442 489.718 205.784 465.502C208.126 441.286 189.309 419.652 163.754 417.18C138.199 414.708 115.584 432.335 113.241 456.551C110.899 480.767 129.717 502.402 155.272 504.874Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M267.953 264.222C294.437 266.784 317.873 248.516 320.301 223.421C322.728 198.325 303.227 175.904 276.744 173.342C250.26 170.781 226.823 189.048 224.396 214.144C221.968 239.24 241.47 261.661 267.953 264.222Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M339.953 332.222C366.437 334.784 389.873 316.516 392.301 291.42C394.728 266.324 375.227 243.904 348.744 241.342C322.26 238.78 298.823 257.048 296.396 282.144C293.968 307.239 313.47 329.66 339.953 332.222Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M390.953 399.222C417.437 401.784 440.873 383.516 443.301 358.42C445.728 333.324 426.227 310.904 399.744 308.342C373.26 305.78 349.823 324.048 347.396 349.144C344.968 374.239 364.47 396.66 390.953 399.222Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M307.953 435.222C334.437 437.784 357.873 419.516 360.301 394.42C362.728 369.324 343.227 346.904 316.744 344.342C290.26 341.78 266.823 360.048 264.396 385.144C261.968 410.239 281.47 432.66 307.953 435.222Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M452.25 370.684C487.183 374.063 518.096 349.97 521.298 316.871C524.499 283.772 498.776 254.201 463.844 250.822C428.912 247.443 397.998 271.536 394.797 304.635C391.595 337.734 417.318 367.305 452.25 370.684Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M281.514 382.246C313.831 385.372 342.43 363.084 345.391 332.465C348.353 301.846 324.556 274.49 292.239 271.364C259.923 268.238 231.324 290.526 228.362 321.145C225.4 351.764 249.197 379.12 281.514 382.246Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M195.068 432.381C225.481 435.322 252.395 414.347 255.182 385.532C257.97 356.717 235.575 330.972 205.161 328.031C174.748 325.089 147.834 346.064 145.047 374.879C142.26 403.694 164.655 429.439 195.068 432.381Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M396.068 291.381C426.481 294.322 453.395 273.347 456.182 244.532C458.97 215.717 436.575 189.972 406.161 187.031C375.748 184.089 348.834 205.064 346.047 233.879C343.26 262.694 365.655 288.439 396.068 291.381Z" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="510" width="87" height="84">
+<ellipse cx="47.9073" cy="551.855" rx="42.9151" ry="41.7244" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="-135.459" y="412.268" width="363.349" height="279.174" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="-2.25391" y="502.794" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="-13.8379" y="529.065" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="16.377" y="529.065" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="32.9961" y="502.794" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="61.959" y="502.794" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="81.5938" y="529.065" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="48.1035" y="529.065" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="42.9746" y="581.434" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="73.9434" y="581.434" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="62.6172" y="555.163" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="29.125" y="555.163" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="-14.1855" y="581.434" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="2.17969" y="555.163" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="15.0234" y="581.434" width="22.4103" height="26.2715" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M44.2251 592.792C68.0973 595.116 89.2237 578.538 91.4121 555.764C93.6006 532.99 76.0225 512.644 52.1502 510.32C28.278 507.995 7.15168 524.573 4.96323 547.347C2.77477 570.121 20.3529 590.467 44.2251 592.792Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="93" y="300" width="91" height="85">
+<ellipse cx="138.73" cy="342.365" rx="44.9112" ry="42.1925" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="-53.1621" y="201.211" width="380.249" height="282.306" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="86.2344" y="292.752" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="74.1152" y="319.318" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="105.732" y="319.318" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="123.127" y="292.752" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="153.436" y="292.752" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="173.986" y="319.318" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="138.939" y="319.318" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="133.568" y="372.275" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="165.979" y="372.275" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="154.121" y="345.709" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="119.076" y="345.709" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="73.752" y="372.275" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="90.8789" y="345.709" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="104.316" y="372.275" width="23.4527" height="26.5662" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M134.338 385.397C158.92 387.79 180.674 370.723 182.928 347.276C185.181 323.829 167.08 302.881 142.498 300.488C117.916 298.094 96.1618 315.162 93.9086 338.609C91.6555 362.056 109.757 383.003 134.338 385.397Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="37" y="443" width="81" height="78">
+<ellipse cx="77.8488" cy="482.364" rx="39.9211" ry="38.5319" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask2)">
+<rect x="-92.7266" y="353.458" width="337.999" height="257.814" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="31.1836" y="437.057" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="20.4102" y="461.319" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="48.5156" y="461.319" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="63.9766" y="437.057" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="90.9199" y="437.057" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="109.188" y="461.319" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="78.0312" y="461.319" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="73.2578" y="509.681" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="102.068" y="509.681" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="91.5254" y="485.419" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="60.3789" y="485.419" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="20.0879" y="509.681" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="35.3145" y="485.419" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="47.2578" y="509.681" width="20.8468" height="24.2614" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M74.4483 520.036C96.2719 522.16 115.585 507.011 117.585 486.198C119.585 465.385 103.515 446.79 81.6909 444.666C59.8673 442.541 40.5545 457.69 38.5545 478.503C36.5544 499.316 52.6247 517.911 74.4483 520.036Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="57" y="479" width="95" height="91">
+<ellipse cx="104.794" cy="524.811" rx="46.9072" ry="44.814" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask3)">
+<rect x="-95.627" y="374.888" width="397.149" height="299.846" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="49.9668" y="472.117" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="37.3086" y="500.333" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="70.3301" y="500.333" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="88.498" y="472.117" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="120.152" y="472.117" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="141.619" y="500.333" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="105.01" y="500.333" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="99.4043" y="556.58" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="133.254" y="556.58" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="120.871" y="528.363" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="84.2676" y="528.363" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="36.9277" y="556.58" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="54.8145" y="528.363" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="68.8516" y="556.58" width="24.495" height="28.2168" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M100.664 568.746C126.493 571.261 149.352 553.327 151.719 528.69C154.087 504.053 135.067 482.042 109.237 479.528C83.4077 477.013 60.5495 494.946 58.182 519.583C55.8145 544.22 74.8343 566.231 100.664 568.746Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="42" y="349" width="112" height="107">
+<ellipse cx="98.2941" cy="402.645" rx="55.3742" ry="53.2429" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask4)">
+<rect x="-138.305" y="224.523" width="468.836" height="356.243" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="33.5723" y="340.041" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="18.623" y="373.565" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="57.6133" y="373.565" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="79.0547" y="340.041" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="116.424" y="340.041" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="141.762" y="373.565" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="98.5508" y="373.565" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="91.9277" y="440.391" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="131.893" y="440.391" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="117.27" y="406.866" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="74.0586" y="406.866" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="18.1738" y="440.391" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="39.293" y="406.866" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="55.8672" y="440.391" width="28.9164" height="33.524" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M93.5596 455.906C124.284 458.898 151.474 437.569 154.289 408.267C157.105 378.966 134.481 352.787 103.756 349.796C73.032 346.804 45.8424 368.133 43.0267 397.435C40.2109 426.736 62.8353 452.915 93.5596 455.906Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="142" y="143" width="102" height="98">
+<ellipse cx="193.125" cy="192.183" rx="50.4003" ry="48.7223" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask5)">
+<rect x="-22.2246" y="29.1865" width="426.724" height="325.996" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="134.211" y="134.894" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="120.609" y="165.572" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="156.092" y="165.572" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="175.613" y="134.894" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="209.623" y="134.894" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="232.688" y="165.572" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="193.352" y="165.572" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="187.326" y="226.724" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="223.705" y="226.724" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="210.396" y="196.046" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="171.066" y="196.046" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="120.199" y="226.724" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="139.422" y="196.046" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="154.506" y="226.724" width="26.3191" height="30.6777" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M188.938 240.095C216.667 242.795 241.205 223.546 243.746 197.101C246.288 170.657 225.869 147.031 198.141 144.331C170.412 141.631 145.874 160.88 143.332 187.325C140.791 213.77 161.21 237.396 188.938 240.095Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="104" y="217" width="105" height="103">
+<ellipse cx="156.692" cy="268.535" rx="51.8974" ry="50.7383" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask6)">
+<rect x="-65.0527" y="98.7915" width="439.399" height="339.485" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="96.0312" y="208.875" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="82.0234" y="240.822" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="118.562" y="240.822" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="138.662" y="208.875" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="173.684" y="208.875" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="197.43" y="240.822" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="156.932" y="240.822" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="150.729" y="304.505" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="188.178" y="304.505" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="174.477" y="272.557" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="133.98" y="272.557" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="81.6035" y="304.505" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="101.398" y="272.557" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="116.928" y="304.505" width="27.1009" height="31.9471" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M152.199 319.589C180.583 322.352 205.761 302.026 208.436 274.189C211.111 246.352 190.27 221.546 161.886 218.782C133.502 216.019 108.324 236.345 105.649 264.182C102.974 292.019 123.815 316.825 152.199 319.589Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="177" y="385" width="100" height="98">
+<ellipse cx="227.055" cy="434.214" rx="49.4023" ry="48.6466" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask7)">
+<rect x="15.9707" y="271.468" width="418.274" height="325.49" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="169.307" y="377.013" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="155.975" y="407.643" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="190.754" y="407.643" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="209.889" y="377.013" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="243.227" y="377.013" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="265.834" y="407.643" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="227.283" y="407.643" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="221.371" y="468.7" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="257.023" y="468.7" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="243.982" y="438.07" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="205.434" y="438.07" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="155.574" y="468.7" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="174.418" y="438.07" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="189.195" y="468.7" width="25.7979" height="30.63" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M224.731 483.106C251.834 484.617 275.012 463.946 276.499 436.934C277.985 409.923 257.219 386.801 230.115 385.289C203.011 383.778 179.834 404.449 178.347 431.46C176.86 458.472 197.627 481.594 224.731 483.106Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="113" y="416" width="94" height="90">
+<ellipse cx="160.189" cy="461.02" rx="46.4082" ry="44.3117" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask8)">
+<rect x="-38.1016" y="312.777" width="392.924" height="296.486" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="105.943" y="408.916" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="93.4199" y="436.817" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="126.094" y="436.817" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="144.064" y="408.916" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="175.385" y="408.916" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="196.619" y="436.817" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="160.402" y="436.817" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="154.854" y="492.434" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="188.346" y="492.434" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="176.092" y="464.533" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="139.879" y="464.533" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="93.0469" y="492.434" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="110.742" y="464.533" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="124.629" y="492.434" width="24.2344" height="27.9006" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M155.968 505.282C181.473 507.765 204.044 490.057 206.381 465.73C208.719 441.403 189.939 419.669 164.434 417.186C138.929 414.703 116.359 432.411 114.021 456.738C111.683 481.065 130.464 502.799 155.968 505.282Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask9" mask-type="alpha" maskUnits="userSpaceOnUse" x="296" y="239" width="98" height="94">
+<ellipse cx="344.824" cy="286.108" rx="48.4043" ry="46.2108" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask9)">
+<rect x="138.002" y="131.513" width="409.824" height="309.192" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="288.24" y="231.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="275.178" y="260.869" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="309.258" y="260.869" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="328.002" y="231.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="360.668" y="231.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="382.82" y="260.869" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="345.043" y="260.869" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="339.256" y="318.868" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="374.191" y="318.868" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="361.408" y="289.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="323.639" y="289.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="274.785" y="318.868" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="293.248" y="289.772" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="307.732" y="318.868" width="25.2768" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M340.288 331.835C366.719 334.409 390.11 316.058 392.532 290.847C394.955 265.636 375.492 243.112 349.061 240.539C322.63 237.966 299.239 256.317 296.817 281.528C294.394 306.738 313.857 329.262 340.288 331.835Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask10" mask-type="alpha" maskUnits="userSpaceOnUse" x="347" y="308" width="97" height="93">
+<ellipse cx="395.228" cy="354.42" rx="47.9053" ry="46.2108" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask10)">
+<rect x="190.537" y="199.824" width="405.599" height="309.192" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="339.229" y="300.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="326.297" y="329.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="360.023" y="329.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="378.58" y="300.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="410.908" y="300.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="432.83" y="329.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="395.443" y="329.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="389.715" y="387.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="424.291" y="387.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="411.641" y="358.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="374.258" y="358.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="325.91" y="387.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="344.184" y="358.083" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="358.518" y="387.18" width="25.0162" height="29.0963" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M391.188 400.146C417.619 402.72 441.01 384.369 443.433 359.158C445.855 333.947 426.393 311.423 399.961 308.85C373.53 306.277 350.14 324.628 347.717 349.839C345.294 375.05 364.757 397.573 391.188 400.146Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask11" mask-type="alpha" maskUnits="userSpaceOnUse" x="164" y="244" width="116" height="111">
+<ellipse cx="222.085" cy="299.67" rx="57.4068" ry="54.7498" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask11)">
+<rect x="-23.2012" y="116.508" width="486.046" height="366.326" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="154.982" y="235.293" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="139.488" y="269.767" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="179.904" y="269.767" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="202.139" y="235.293" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="240.877" y="235.293" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="267.146" y="269.767" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="222.352" y="269.767" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="215.482" y="338.484" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="256.91" y="338.484" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="241.758" y="304.011" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="196.957" y="304.011" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="139.023" y="338.484" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="160.92" y="304.011" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="178.094" y="338.484" width="29.9779" height="34.4728" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M217.045 354.883C248.722 357.967 276.755 335.977 279.658 305.767C282.561 275.556 259.235 248.566 227.558 245.482C195.881 242.398 167.848 264.388 164.945 294.598C162.042 324.808 185.368 351.799 217.045 354.883Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask12" mask-type="alpha" maskUnits="userSpaceOnUse" x="263" y="344" width="98" height="92">
+<ellipse cx="311.887" cy="390.078" rx="48.4043" ry="45.6948" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask12)">
+<rect x="105.064" y="237.208" width="409.824" height="305.74" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="255.307" y="336.347" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="242.24" y="365.12" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="276.318" y="365.12" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="295.068" y="336.347" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="327.734" y="336.347" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="349.883" y="365.12" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="312.107" y="365.12" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="306.316" y="422.471" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="341.252" y="422.471" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="328.473" y="393.7" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="290.699" y="393.7" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="241.848" y="422.471" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="260.311" y="393.7" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="274.795" y="422.471" width="25.2768" height="28.7714" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M307.35 435.316C333.782 437.889 357.172 419.538 359.595 394.327C362.017 369.116 342.555 346.593 316.123 344.019C289.692 341.446 266.302 359.797 263.879 385.008C261.456 410.219 280.919 432.743 307.35 435.316Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask13" mask-type="alpha" maskUnits="userSpaceOnUse" x="227" y="270" width="119" height="113">
+<ellipse cx="286.434" cy="326.287" rx="58.8836" ry="56.2566" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask13)">
+<rect x="34.8359" y="138.083" width="498.549" height="376.408" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="217.605" y="260.139" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="201.715" y="295.56" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="243.166" y="295.56" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="265.975" y="260.139" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="305.707" y="260.139" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="332.658" y="295.56" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="286.707" y="295.56" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="279.66" y="366.169" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="322.16" y="366.169" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="306.607" y="330.747" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="260.662" y="330.747" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="201.236" y="366.169" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="223.695" y="330.747" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="241.312" y="366.169" width="30.749" height="35.4216" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M280.959 382.084C313.212 385.224 341.754 362.834 344.71 332.074C347.666 301.315 323.916 273.834 291.663 270.694C259.41 267.553 230.868 289.943 227.912 320.703C224.956 351.462 248.706 378.943 280.959 382.084Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask14" mask-type="alpha" maskUnits="userSpaceOnUse" x="204" y="70" width="104" height="99">
+<ellipse cx="255.996" cy="119.339" rx="51.3984" ry="49.2246" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask14)">
+<rect x="36.3848" y="-45.3394" width="435.174" height="329.357" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="195.918" y="61.458" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="182.043" y="92.4526" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="218.232" y="92.4526" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="238.137" y="61.458" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="272.824" y="61.458" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="296.342" y="92.4526" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="256.232" y="92.4526" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="250.082" y="154.235" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="287.182" y="154.235" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="273.605" y="123.241" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="233.502" y="123.241" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="181.629" y="154.235" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="201.232" y="123.241" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="216.611" y="154.235" width="26.8403" height="30.9939" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M251.429 167.986C279.496 170.718 304.334 151.233 306.907 124.463C309.479 97.6932 288.812 73.7768 260.744 71.0441C232.677 68.3115 207.838 87.7973 205.266 114.567C202.694 141.337 223.361 165.253 251.429 167.986Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask15" mask-type="alpha" maskUnits="userSpaceOnUse" x="144" y="327" width="112" height="106">
+<ellipse cx="200.248" cy="379.781" rx="55.555" ry="52.6805" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask15)">
+<rect x="-37.125" y="203.541" width="470.368" height="352.48" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="135.312" y="317.836" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="120.314" y="351.006" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="159.434" y="351.006" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="180.943" y="317.836" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="218.436" y="317.836" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="243.855" y="351.006" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="200.504" y="351.006" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="193.859" y="417.127" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="233.953" y="417.127" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="219.285" y="383.957" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="175.932" y="383.957" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="119.867" y="417.127" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="141.053" y="383.957" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="157.68" y="417.127" width="29.0109" height="33.1699" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M195.357 431.678C225.529 434.617 252.229 413.662 254.994 384.873C257.759 356.085 235.542 330.365 205.37 327.426C175.199 324.487 148.499 345.442 145.734 374.23C142.969 403.019 165.186 428.739 195.357 431.678Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask16" mask-type="alpha" maskUnits="userSpaceOnUse" x="257" y="118" width="144" height="136">
+<ellipse cx="328.855" cy="186.149" rx="71.3589" ry="67.8094" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask16)">
+<rect x="23.9551" y="-40.7041" width="604.174" height="453.706" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="245.443" y="106.416" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="226.186" y="149.111" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="276.424" y="149.111" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="304.064" y="106.416" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="352.217" y="106.416" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="384.875" y="149.111" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="329.186" y="149.111" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="320.648" y="234.221" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="372.15" y="234.221" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="353.305" y="191.525" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="297.623" y="191.525" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="225.611" y="234.221" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="252.824" y="191.525" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="274.172" y="234.221" width="37.2637" height="42.6957" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M322.386 253.407C361.531 257.219 396.173 230.043 399.761 192.708C403.348 155.374 374.523 122.019 335.378 118.208C296.233 114.397 261.592 141.573 258.004 178.907C254.416 216.241 283.241 249.596 322.386 253.407Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask17" mask-type="alpha" maskUnits="userSpaceOnUse" x="394" y="248" width="128" height="124">
+<ellipse cx="457.77" cy="310.218" rx="63.588" ry="61.2796" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask17)">
+<rect x="186.074" y="105.209" width="538.38" height="410.016" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="383.441" y="238.163" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="366.281" y="276.748" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="411.051" y="276.748" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="435.678" y="238.163" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="478.59" y="238.163" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="507.689" y="276.748" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="458.064" y="276.748" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="450.459" y="353.661" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="496.352" y="353.661" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="479.559" y="315.074" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="429.941" y="315.074" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="365.768" y="353.661" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="390.02" y="315.074" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="409.047" y="353.661" width="33.2057" height="38.5843" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M452.361 370.473C487.225 373.867 518.077 349.664 521.272 316.413C524.468 283.163 498.796 253.456 463.932 250.062C429.069 246.667 398.216 270.871 395.021 304.121C391.826 337.372 417.498 367.079 452.361 370.473Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask18" mask-type="alpha" maskUnits="userSpaceOnUse" x="224" y="173" width="98" height="93">
+<ellipse cx="272.963" cy="219.304" rx="48.4043" ry="45.7085" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask18)">
+<rect x="66.1426" y="66.3887" width="409.824" height="305.832" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="216.385" y="165.558" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="203.32" y="194.338" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="237.396" y="194.338" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="256.148" y="165.558" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="288.811" y="165.558" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="310.961" y="194.338" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="273.186" y="194.338" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="267.395" y="251.708" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="302.33" y="251.708" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="289.549" y="222.928" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="251.777" y="222.928" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="202.928" y="251.708" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="221.387" y="222.928" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="235.869" y="251.708" width="25.2768" height="28.7801" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M268.429 264.528C294.86 267.102 318.25 248.75 320.673 223.54C323.096 198.329 303.633 175.805 277.202 173.232C250.77 170.658 227.38 189.01 224.957 214.221C222.535 239.431 241.997 261.955 268.429 264.528Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+<mask id="mask19" mask-type="alpha" maskUnits="userSpaceOnUse" x="345" y="186" width="112" height="106">
+<ellipse cx="400.939" cy="238.893" rx="55.6186" ry="52.2383" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask19)">
+<rect x="163.297" y="64.1328" width="470.906" height="349.522" fill="#BCB4D2" fill-opacity="0.59"/>
+<rect x="335.928" y="177.47" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="320.92" y="210.361" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="360.072" y="210.361" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="381.613" y="177.47" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="419.148" y="177.47" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="444.6" y="210.361" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="401.197" y="210.361" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="394.543" y="275.926" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="434.684" y="275.926" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="420" y="243.035" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="376.598" y="243.035" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="320.469" y="275.926" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="341.68" y="243.035" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+<rect x="358.322" y="275.926" width="29.0441" height="32.8915" fill="#534B6A" fill-opacity="0.53"/>
+</g>
+<path d="M396.296 291.811C426.649 294.766 453.51 273.695 456.291 244.748C459.073 215.8 436.722 189.938 406.369 186.983C376.016 184.028 349.155 205.098 346.373 234.046C343.592 262.993 365.943 288.856 396.296 291.811Z" fill="#534B6A" fill-opacity="0.1" stroke="black" stroke-miterlimit="10"/>
+</svg>

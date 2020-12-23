@@ -1,0 +1,254 @@
+@import "responsive.css";
+* {
+  font-family: 'Montserrat', sans-serif;
+  color: #644214;
+}
+p{
+  font-size: 36px;
+  margin: 0 0;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.wrapper{
+  display: flex;
+  min-height: 100%;
+}
+.plate3{
+  position: relative;
+  width: 1000px;
+  height: 1000px;
+  left: 200px;
+  top: 50px;
+}
+.plate3 img{
+  position: absolute;
+  max-width: 100%;
+
+
+}
+/* .pepper{
+  position: absolute;
+  left: 600px;
+  top: 60px;
+} */
+/* .eggplant{
+  position: absolute;
+  left: 1000px;
+  top: 100px;
+} */
+.fork{
+  position: absolute;
+  top: 850px;
+  left: 828px;
+}
+.napkin{
+  position: absolute;
+  left: 0px;
+  top: 665px;
+}
+.hand{
+  z-index: 1;
+  position: absolute;
+  left: 0px;
+  top:1667px;
+}
+.hand2{
+  position: absolute;
+  left: 0px;
+  top: 1667px;
+}
+.menu{
+  position: absolute;
+  left: -50px;
+  top: 1000px;
+}
+/* .grapes{
+  position: absolute;
+  top:500px;
+  left: 380px;
+} */
+.plate{
+  position: absolute;
+  top: 2500px;
+  left:-15px;
+}
+.plate2{
+  position: absolute;
+  top:2763px;
+  left:735px;
+}
+/* .grapes{
+  z-index: 1;
+  position: absolute;
+  left: 200px;
+  top: 2500px;
+}
+.cherry{
+  position: absolute;
+  top: 2948px;
+  left:980px;
+}
+.carrot{
+  position: absolute;
+  top: 3006px;
+  left: 900px;
+} */
+.napkin2{
+  position: absolute;
+  top: 3053px;
+  left:280px;
+}
+.crumbs{
+  position: absolute;
+  opacity: 1;
+  top: 400px;
+  left: 50px;
+}
+.crumbs:hover{
+  opacity: 0;
+}
+.crumbs2{
+  position: absolute;
+  opacity: 1;
+  top: 930px;;
+  left:1190px;
+}
+.crumbs2:hover{
+  opacity: 0;
+}
+.crumbs3{
+  position: absolute;
+  opacity: 1;
+  top: 3445px;
+  left:1100px;
+}
+.crumbs3:hover{
+  opacity: 0;
+}
+.text{
+  left: 0px;
+  top: 3445px;
+}
+a.rollover{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%202.svg');
+  display: block;
+  width:425px ;
+  height:438px ;
+}
+a.rollover:hover {
+    background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//Group%20118.svg');
+}
+a.rollover-eggplant{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD.svg');
+  display: block;
+  width:283px ;
+  height:354px ;
+}
+a.rollover-eggplant:hover{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//Group%2064.svg')
+}
+a.rollover-carrot{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%2013.svg');
+  display: block;
+  width:420px ;
+  height:240px ;
+}
+a.rollover-carrot:hover{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//Group%2051.svg');
+}
+a.rollover-cherry{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%201.svg');
+  display: block;
+  width:159px ;
+  height:246px ;
+}
+a.rollover-cherry:hover{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//Group%2088.svg')
+}
+a.rollover-grapes{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//%D0%A1%D0%BB%D0%BE%D0%B8%CC%86%2011.svg');
+  display: block;
+  width:577px ;
+  height:595px ;
+}
+a.rollover-grapes:hover{
+  background: url('https://raw.githubusercontent.com/evakogut/Web-poster/main/img//Group%20117.svg')
+}
+.flask{
+  position: relative;
+  z-index: 1;
+  left: 494px;
+  top: 390px;
+}
+.liquid{
+  position: relative;
+  z-index: 1;
+  top: 390px;
+  left: 288px;
+  animation: liquid-fadeIn 0.9s both ease-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+@keyframes liquid-fadeIn {
+   from    { opacity: 1; }
+   to      { opacity: 0; }
+}
+.flask2{
+  position: absolute;
+  z-index: 1;
+  top: 1859px;
+  left:435px;
+}
+.liquid2{
+  position: absolute;
+  z-index: 1;
+  top: 1905px;
+  left: 482px;
+  animation: liquid-flask2 1.5s both ease-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+@keyframes liquid-flask2 {
+   from    { opacity: 1; }
+   to      { opacity: 0; }
+}
+.flask3{
+  position: absolute;
+  z-index: 1;
+  top: 1730px;
+  left: 780px;
+}
+.liquid3{
+  position: absolute;
+  z-index: 1;
+  top: 1777px;
+  left: 827px;
+  animation: liquid-flask3 1.2s both ease-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+@keyframes liquid-flask3 {
+   from    { opacity: 1; }
+   to      { opacity: 0; }
+}
+.flask4{
+  position: absolute;
+  z-index: 1;
+  top: 2192px;
+  left: 950px;
+}
+.liquid4{
+  position: absolute;
+  z-index: 1;
+  top: 2244px;
+  left: 1003px;
+  animation: liquid-flask4 0.5s both ease-in;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+@keyframes liquid-flask4 {
+   from    { opacity: 1; }
+   to      { opacity: 0; }
+}
