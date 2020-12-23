@@ -131,6 +131,10 @@ body{
   left: 0px;
   top: 3445px;
 }
+.rollover{
+  position: absolute;
+  top: 192px;
+  left: 968px;
 a.rollover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/pepper.svg');
   display: block;
