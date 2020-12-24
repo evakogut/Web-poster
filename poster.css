@@ -256,3 +256,10 @@ a.rollover-grapes:hover{
    from    { opacity: 1; }
    to      { opacity: 0; }
 }
+.rectangle{
+  position: absolute;
+  top: 3700px;
+  left: 0px;
+  width: 1680px;
+  height: 40px;
+}
