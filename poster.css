@@ -3,9 +3,18 @@
   font-family: 'Montserrat', sans-serif;
   color: #644214;
 }
-p{
+.fonts{
+  position: absolute;
+  font-size: 64px;
+  left: 70px;
+  top: 34px;
+}
+.fonts2{
   font-size: 36px;
-  margin: 0 0;
+  position: absolute;
+  top: 3670px;
+  left: 78px;
+  margin-bottom: 50px;
 }
 body{
   padding: 0px;
@@ -16,11 +25,11 @@ body{
   min-height: 100%;
 }
 .plate3{
-  position: relative;
+  position: absolute;
   width: 1000px;
   height: 1000px;
-  left: 200px;
-  top: 50px;
+  left: 430px;
+  top: 80px;
 }
 .plate3 img{
   position: absolute;
@@ -28,19 +37,9 @@ body{
 
 
 }
-/* .pepper{
-  position: absolute;
-  left: 600px;
-  top: 60px;
-} */
-/* .eggplant{
-  position: absolute;
-  left: 1000px;
-  top: 100px;
-} */
 .fork{
   position: absolute;
-  top: 850px;
+  top: 890px;
   left: 828px;
 }
 .napkin{
@@ -64,11 +63,6 @@ body{
   left: -50px;
   top: 1000px;
 }
-/* .grapes{
-  position: absolute;
-  top:500px;
-  left: 380px;
-} */
 .plate{
   position: absolute;
   top: 2500px;
@@ -79,22 +73,6 @@ body{
   top:2763px;
   left:735px;
 }
-/* .grapes{
-  z-index: 1;
-  position: absolute;
-  left: 200px;
-  top: 2500px;
-}
-.cherry{
-  position: absolute;
-  top: 2948px;
-  left:980px;
-}
-.carrot{
-  position: absolute;
-  top: 3006px;
-  left: 900px;
-} */
 .napkin2{
   position: absolute;
   top: 3053px;
@@ -131,6 +109,11 @@ body{
   left: 0px;
   top: 3445px;
 }
+.rollover{
+  position: absolute;
+  left: 710px;
+  top: 211px;
+}
 a.rollover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/pepper.svg');
   display: block;
@@ -139,6 +122,11 @@ a.rollover{
 }
 a.rollover:hover {
     background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%20118.svg');
+}
+.rollover-eggplant{
+  position: absolute;
+  top: 340px;
+  left: 650px;
 }
 a.rollover-eggplant{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/eggplant.svg');
@@ -149,6 +137,12 @@ a.rollover-eggplant{
 a.rollover-eggplant:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2064.svg')
 }
+.rollover-carrot{
+  position: absolute;
+  z-index: 1;
+  top: 3000px;
+  left: 910px;
+}
 a.rollover-carrot{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/carrot.svg');
   display: block;
@@ -158,6 +152,11 @@ a.rollover-carrot{
 a.rollover-carrot:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2051.svg');
 }
+.rollover-cherry{
+  position: absolute;
+  top: 2920px;
+  left: 990px;
+}
 a.rollover-cherry{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/cherry.svg');
   display: block;
@@ -166,6 +165,11 @@ a.rollover-cherry{
 }
 a.rollover-cherry:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%2088.svg')
+}
+.rollover-grapes{
+  position: absolute;
+  top: 2500px;
+  left: 200px;
 }
 a.rollover-grapes{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/grape.svg');
@@ -177,16 +181,16 @@ a.rollover-grapes:hover{
   background: url('https://raw.githubusercontent.com/evakogut/web-poster/main/img/Group%20117.svg')
 }
 .flask{
-  position: relative;
+  position: absolute;
   z-index: 1;
   left: 494px;
-  top: 390px;
+  top: 1380px;
 }
 .liquid{
-  position: relative;
+  position: absolute;
   z-index: 1;
-  top: 390px;
-  left: 288px;
+  top: 1424px;
+  left: 538px;
   animation: liquid-fadeIn 0.9s both ease-in;
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
